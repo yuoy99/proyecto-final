@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/proyecto-final/static/css/main.466e34ea.css",
+    "main.js": "/proyecto-final/static/js/main.50a3c2b8.js",
+    "static/media/01.png": "/proyecto-final/static/media/01.34469dcc846fe1e112ed.png",
+    "static/media/98.jpg": "/proyecto-final/static/media/98.6fa1459ca7fcc27666a1.jpg",
+    "static/media/02.jpg": "/proyecto-final/static/media/02.7a147099f45703a69a41.jpg",
+    "static/media/01.jpg": "/proyecto-final/static/media/01.5ea940ae25a30d4d592e.jpg",
+    "static/media/01.webp": "/proyecto-final/static/media/01.a9f9cce7e3fd2e82e4fc.webp",
+    "static/media/001.png": "/proyecto-final/static/media/001.5c994f431efa106ad260.png",
+    "static/media/portero.webp": "/proyecto-final/static/media/portero.170bfd7ab3f74cdc876f.webp",
+    "static/media/rami medio  ofen.webp": "/proyecto-final/static/media/rami medio  ofen.be5603e6f93428a9e20a.webp",
+    "static/media/diegladder.webp": "/proyecto-final/static/media/diegladder.1f1b63a02421c0d7d524.webp",
+    "static/media/sub portero.webp": "/proyecto-final/static/media/sub portero.7543b4fb85f42778c795.webp",
+    "static/media/defensacentral.jpg.webp": "/proyecto-final/static/media/defensacentral.jpg.4b3f110309f9519b3032.webp",
+    "index.html": "/proyecto-final/index.html",
+    "main.466e34ea.css.map": "/proyecto-final/static/css/main.466e34ea.css.map",
+    "main.50a3c2b8.js.map": "/proyecto-final/static/js/main.50a3c2b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.466e34ea.css",
+    "static/js/main.50a3c2b8.js"
+  ]
+}
